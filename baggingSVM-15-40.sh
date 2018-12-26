@@ -1,0 +1,10 @@
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 10
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 9
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 8
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 7
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 6
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 5
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 4
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 3
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 2
+./baggingSVM.py ./input-15 ./baggingSVM-15-40 40 1

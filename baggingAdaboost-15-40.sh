@@ -1,0 +1,10 @@
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 10
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 9
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 8
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 7
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 6
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 5
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 4
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 3
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 2
+./baggingAdaboost.py ./input-15 ./baggingAdaboost-15-40 40 1
